@@ -5,7 +5,7 @@
 ### 1. Подготовка к выполнению.
 #### Создаём свой собственный публичный репозиторий на github
 
-![Playbook-repo](https://github.com/VitkinKN/HOMEWORKNETOLOGY/tree/master/ANSIBLE_PLAYBOOK)
+![Playbook repo for task ansible - playbook](https://github.com/VitkinKN/ANSIBLE_PLAYBOOK/tree/master/playbook)
 
 #### Подготавливаем хосты в соотвтествии с группами из предподготовленного playbook.
 ```
